@@ -13,6 +13,7 @@
 		DC16414729B7B6EC00E872B5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC16414529B7B6EC00E872B5 /* Main.storyboard */; };
 		DC16414929B7B6EE00E872B5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC16414829B7B6EE00E872B5 /* Assets.xcassets */; };
 		DC16414C29B7B6EE00E872B5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC16414A29B7B6EE00E872B5 /* LaunchScreen.storyboard */; };
+		DCA14F9129EF17130014CC1D /* BillSplitterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCA14F9029EF17130014CC1D /* BillSplitterViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DC16414829B7B6EE00E872B5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DC16414B29B7B6EE00E872B5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DC16414D29B7B6EE00E872B5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DCA14F9029EF17130014CC1D /* BillSplitterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BillSplitterViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				DC16413F29B7B6EC00E872B5 /* AppDelegate.swift */,
 				DC16414129B7B6EC00E872B5 /* SceneDelegate.swift */,
 				DC16414329B7B6EC00E872B5 /* ViewController.swift */,
+				DCA14F9029EF17130014CC1D /* BillSplitterViewController.swift */,
 				DC16414529B7B6EC00E872B5 /* Main.storyboard */,
 				DC16414829B7B6EE00E872B5 /* Assets.xcassets */,
 				DC16414A29B7B6EE00E872B5 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DCA14F9129EF17130014CC1D /* BillSplitterViewController.swift in Sources */,
 				DC16414429B7B6EC00E872B5 /* ViewController.swift in Sources */,
 				DC16414029B7B6EC00E872B5 /* AppDelegate.swift in Sources */,
 				DC16414229B7B6EC00E872B5 /* SceneDelegate.swift in Sources */,
